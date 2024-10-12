@@ -1,0 +1,13 @@
+html {
+  background-color: green;
+}
+
+body {
+  background-color: blue;
+}
+
+p,
+li {
+  color: aliceblue;
+  letter-spacing: 10px;
+}

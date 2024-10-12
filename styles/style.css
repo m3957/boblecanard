@@ -1,0 +1,30 @@
+html {
+    font-family: cursive;
+    background-color: #92b2ca;
+}
+
+body {
+  background-color: yellow;
+  margin: 0px;
+  width: 1000px;
+  padding: 50;
+  border: 5px solid black;
+  text-shadow: 2px 2px 1px rgb(176, 179, 72);
+}
+
+img {
+  display: block;
+  width: 500px;
+  height: 200px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p,
+li {
+  text-align: left;
+  font-size: 16px;
+  line-height: 2;
+}
