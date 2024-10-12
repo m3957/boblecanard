@@ -1,13 +1,29 @@
 html {
+  font-family: cursive;
   background-color: green;
+}
+
+img {
+  display: block;
+  width: 500px;
+  height: 400px;
 }
 
 body {
   background-color: blue;
+  margin: 0px;
+  width: 650px;
+  padding: 50;
+  border: 5px solid black;
+  text-shadow: 2px 2px 1px rgb(176, 179, 72);
+}
+
+h1 {
+  text-align: center;
 }
 
 p,
 li {
   color: aliceblue;
-  letter-spacing: 10px;
+  letter-spacing: 12px;
 }
